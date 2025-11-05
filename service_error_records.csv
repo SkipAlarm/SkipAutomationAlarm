@@ -3,3 +3,4 @@ Data, Macchina, Messaggio
 05-11-2025 11-27-29,SKIP - FR3,ERROR | Endpoint: /start_skip_automation | Type: AttributeError | Message: 'bool' object has no attribute 'empty'
 05-11-2025 11-31-16,SKIP - FR3,ERROR | Endpoint: /start_skip_automation | Type: AttributeError | Message: 'bool' object has no attribute 'empty'
 05-11-2025 11-41-11,SKIP - FR3,ERROR | Endpoint: /start_skip_automation | Type: KeyError | Message: 'b'
+05-11-2025 11-45-21,SKIP - FR3,ERROR | Endpoint: /start_skip_automation | Type: TypeError | Message: `data` must be a pandas DataFrame or dict[str, DataFrame].
