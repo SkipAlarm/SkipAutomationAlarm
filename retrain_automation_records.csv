@@ -42,3 +42,4 @@ Data, Macchina, Messaggio
 05-11-2025 11-33-33,SKIP - FR3,No blacklist were found; left hand side processed for model: A. Check for components changes.
 05-11-2025 11-36-00,SKIP - FR3,No blacklist were found; left hand side processed for model: A. Check for components changes.
 12-11-2025 08-50-38,SKIP - FR3,Processo di retrain SKIP completato per il modello A. Esito: NEGATIVE | Δ performance %: -2.16%
+12-11-2025 08-50-39,SKIP - FR3,Processo di retrain SKIP completato per il modello B. Esito: POSITIVE | Δ performance %: 8.45%
