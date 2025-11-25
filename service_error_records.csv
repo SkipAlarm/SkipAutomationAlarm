@@ -11,3 +11,4 @@ Data, Macchina, Messaggio
 25-11-2025 16-04-11,SKIP - FR3,"ERROR | Location: /opt/classificazionepec/SKIP_AUTOM/venv9_skip/lib64/python3.9/site-packages/requests/adapters.py, line 682, in send | Type: ConnectionError | Message: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
 25-11-2025 16-36-56,SKIP - FR3,"ERROR | Location: /usr/lib64/python3.9/bdb.py, line 174, in dispatch_exception | Type: BdbQuit | Message: "
 25-11-2025 17-25-45,SKIP - FR3,"ERROR | Location: /usr/lib64/python3.9/bdb.py, line 113, in dispatch_line | Type: BdbQuit | Message: "
+25-11-2025 17-31-45,SKIP - FR3,"ERROR | Location: /opt/classificazionepec/SKIP_AUTOM/venv9_skip/lib64/python3.9/site-packages/pydantic/main.py, line 991, in __getattr__ | Type: AttributeError | Message: 'Settings' object has no attribute 'DATASET_BLACKLIST_CONFLICT_FOLDER'"
