@@ -9,3 +9,4 @@ Data, Macchina, Messaggio
 25-11-2025 15-39-40,SKIP - FR3,"ERROR | Location: /usr/lib64/python3.9/bdb.py, line 154, in dispatch_return | Type: BdbQuit | Message: "
 25-11-2025 15-59-25,SKIP - FR3,"ERROR | Location: /opt/classificazionepec/SKIP_AUTOM/microservices/inps-crm-analysis-orchestrator/app/call/call_blacklist_extraction.py, line 52, in call_extraction_blacklist | Type: RuntimeError | Message: Failed with status code: 500: {""Status"":""Blacklist extraction error!"",""Detail"":""""}"
 25-11-2025 16-04-11,SKIP - FR3,"ERROR | Location: /opt/classificazionepec/SKIP_AUTOM/venv9_skip/lib64/python3.9/site-packages/requests/adapters.py, line 682, in send | Type: ConnectionError | Message: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+25-11-2025 16-36-56,SKIP - FR3,"ERROR | Location: /usr/lib64/python3.9/bdb.py, line 174, in dispatch_exception | Type: BdbQuit | Message: "
