@@ -22,3 +22,4 @@ Data, Macchina, Messaggio
 04-03-2026 12-56-30,SKIP - FR3,"ERROR | Location: /opt/classificazionepec/SKIP_AUTOM/venv9_skip/lib64/python3.9/site-packages/requests/adapters.py, line 682, in send | Type: ConnectionError | Message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
 04-03-2026 15-05-25,SKIP - FR3,"ERROR | Location: /usr/lib64/python3.9/bdb.py, line 113, in dispatch_line | Type: BdbQuit | Message: "
 04-03-2026 15-05-59,SKIP - FR3,"ERROR | Location: /usr/lib64/python3.9/bdb.py, line 113, in dispatch_line | Type: BdbQuit | Message: "
+04-03-2026 17-08-53,SKIP - FR3,"ERROR | Location: /opt/classificazionepec/SKIP_AUTOM/venv9_skip/lib64/python3.9/site-packages/requests/adapters.py, line 682, in send | Type: ConnectionError | Message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
