@@ -52,3 +52,4 @@ Data, Macchina, Messaggio
 19-12-2025 10-57-05,SKIP - FR3,Processo di retrain SKIP completato per il modello A. Esito: NEGATIVE | Δ performance %: -1.40%. Blacklist comparison: NESSUN CONFLITTO RILEVATO
 19-12-2025 10-57-07,SKIP - FR3,Processo di retrain SKIP completato per il modello B. Esito: NEGATIVE | Δ performance %: -18.74%. Blacklist comparison: NESSUN CONFLITTO RILEVATO
 04-03-2026 11-11-05,TEST,"Retrain completato. Accuracy: 0.924, F1: 0.911"
+04-03-2026 11-17-11,TEST,"Retrain completato. Accuracy: 0.924, F1: 0.911"
