@@ -18,3 +18,4 @@ Data, Macchina, Messaggio
 04-03-2026 11-11-03,TEST,ERROR | Location: C:\Users\f.perez.sierra\Documents\Projects\RetrievalCrossEncoderTrainer\script\roba.py:222 in <module>() | Type: ValueError | Message: Modello non trovato nel registry CP4D
 04-03-2026 11-17-09,TEST,ERROR | Location: C:\Users\f.perez.sierra\Documents\Projects\RetrievalCrossEncoderTrainer\script\roba.py:220 in <module>() | Type: ValueError | Message: Modello non trovato nel registry CP4D
 04-03-2026 11-18-59,SKIP - TEST,ERROR | Location: C:\Users\f.perez.sierra\Documents\Projects\RetrievalCrossEncoderTrainer\script\roba.py:220 in <module>() | Type: ValueError | Message: Modello non trovato nel registry CP4D
+04-03-2026 11-20-58,SKIP,ERROR | Location: C:\Users\f.perez.sierra\Documents\Projects\RetrievalCrossEncoderTrainer\script\roba.py:220 in <module>() | Type: ValueError | Message: Modello non trovato nel registry CP4D
