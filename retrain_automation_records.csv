@@ -56,3 +56,4 @@ Data, Macchina, Messaggio
 04-03-2026 11-19-01,SKIP - TEST,"Retrain completato. Accuracy: 0.924, F1: 0.911"
 04-03-2026 11-20-59,SKIP,"Retrain completato. Accuracy: 0.924, F1: 0.911"
 16-03-2026 20-17-41,SKIP - FR3,Processo di retrain SKIP completato per il modello A. Esito: NEGATIVE | Δ performance %: -3.29%. Blacklist comparison: CONFLITTO RILEVATO
+16-03-2026 20-17-42,SKIP - FR3,Processo di retrain SKIP completato per il modello B. Esito: POSITIVE | Δ performance %: 44.68%. Blacklist comparison: CONFLITTO RILEVATO
