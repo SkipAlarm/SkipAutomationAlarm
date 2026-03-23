@@ -49,3 +49,4 @@ Data, Macchina, Messaggio
 23-03-2026 12-07-28,SKIP - FR3,"ERROR | Location: /usr/lib64/python3.9/bdb.py, line 174, in dispatch_exception | Type: BdbQuit | Message: "
 23-03-2026 12-57-17,SKIP - FR3,"ERROR | Location: /usr/lib64/python3.9/bdb.py, line 174, in dispatch_exception | Type: BdbQuit | Message: "
 23-03-2026 17-01-28,SKIP - FR3,"ERROR | Location: /usr/lib64/python3.9/bdb.py, line 113, in dispatch_line | Type: BdbQuit | Message: "
+23-03-2026 17-06-23,SKIP - FR3,"ERROR | Location: /usr/lib64/python3.9/bdb.py, line 174, in dispatch_exception | Type: BdbQuit | Message: "
