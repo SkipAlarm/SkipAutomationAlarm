@@ -44,3 +44,4 @@ Data, Macchina, Messaggio
 16-03-2026 18-45-12,SKIP - FR3,"ERROR | Location: /usr/lib64/python3.9/bdb.py, line 174, in dispatch_exception | Type: BdbQuit | Message: "
 16-03-2026 18-50-51,SKIP - FR3,"ERROR | Location: /usr/lib64/python3.9/bdb.py, line 174, in dispatch_exception | Type: BdbQuit | Message: "
 16-03-2026 19-04-40,SKIP - FR3,"ERROR | Location: /opt/classificazionepec/SKIP_AUTOM/microservices/inps-crm-analysis-orchestrator/app/handlers/router.py, line 176, in start_skip_automation | Type: KeyError | Message: 'new'"
+23-03-2026 11-19-15,SKIP - FR3,"ERROR | Location: /opt/classificazionepec/SKIP_AUTOM/microservices/inps-crm-analysis-orchestrator/app/pipeline/compare_models_metrics.py, line 36, in compare_models_metrics | Type: KeyError | Message: 'new'"
