@@ -70,3 +70,4 @@ Data, Macchina, Messaggio
 26-03-2026 11-17-02,SKIP - FR3,Processo di retrain SKIP completato per il modello A. Esito: POSITIVE | Δ performance %: 10.31%. Blacklist comparison: CONFLITTO RILEVATO
 26-03-2026 11-17-04,SKIP - FR3,Processo di retrain SKIP completato per il modello B. Esito: NEGATIVE | Δ performance %: -11.78%. Blacklist comparison: CONFLITTO RILEVATO
 27-03-2026 10-36-54,SKIP - FR3,Processo di retrain SKIP completato per il modello A. Esito: NEGATIVE | Δ performance %: 0.19%. Blacklist comparison: NESSUN CONFLITTO RILEVATO
+27-03-2026 10-36-56,SKIP - FR3,Processo di retrain SKIP completato per il modello B. Esito: NEGATIVE | Δ performance %: -0.01%. Blacklist comparison: NESSUN CONFLITTO RILEVATO
