@@ -54,3 +54,4 @@ Data, Macchina, Messaggio
 24-03-2026 07-16-01,SKIP - FR3,"ERROR | Location: /opt/classificazionepec/SKIP_AUTOM/microservices/inps-crm-analysis-orchestrator/app/handlers/router.py, line 136, in start_skip_automation | Type: KeyError | Message: 'A'"
 25-03-2026 16-04-42,SKIP - FR3,"ERROR | Location: /usr/lib64/python3.9/bdb.py, line 113, in dispatch_line | Type: BdbQuit | Message: "
 25-03-2026 16-06-28,SKIP - FR3,"ERROR | Location: /usr/lib64/python3.9/bdb.py, line 113, in dispatch_line | Type: BdbQuit | Message: "
+11-04-2026 12-27-36,SKIP - FR3,"ERROR | Location: /usr/lib64/python3.9/bdb.py, line 113, in dispatch_line | Type: BdbQuit | Message: "
